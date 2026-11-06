@@ -57,7 +57,7 @@ Enterprise help desk with ticket routing, priority handling, an AI chatbot for f
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=nimraamushtaq&custom_title=Contribution%20Activity&bg_color=0d1117&color=ff0080&line=00e5ff&point=39ff14&area=true&hide_border=true" width="100%" />
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&label=Profile+Views&style=flat-square&color=ff0080" />
+  <img src="https://komarev.com/ghpvc/?username=nimraamushtaq&label=Profile+Views&style=flat-square&color=ff0080" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:00e5ff,100:ff0080&section=footer" width="100%" />
