@@ -41,16 +41,11 @@ Enterprise help desk with ticket routing, priority handling, an AI chatbot for f
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical&hide_border=true" />
-  <img height="170" src="https://streak-stats.demolab.com?user=YOUR-USERNAME&theme=radical&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=radical&hide_border=true" />
+  <img height="170" src="profile-summary-card-output/radical/3-stats.svg" />
+  <img height="170" src="https://streak-stats.demolab.com?user=nimraamushtaq&theme=radical&hide_border=true" />
+  <img height="170" src="profile-summary-card-output/radical/2-most-commit-language.svg" />
 </p>
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy-orcin-eta.vercel.app/?username=YOUR-USERNAME&theme=radical&no-frame=true&no-bg=true&row=2&column=4" />
-</p>
 
 ## 📈 Activity Graph
 
